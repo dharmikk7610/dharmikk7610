@@ -14,6 +14,10 @@ Full Stack Java Developer • Spring Boot • React • AI & Machine Learning
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome"/>
 </a>
 
+<a href="https://www.instagram.com/coding__career_">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/dharmik-prajapati-469836293">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
