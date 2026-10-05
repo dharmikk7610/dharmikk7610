@@ -1,309 +1,343 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff88&height=220&section=header&text=DHARMIK%20PRAJAPATI&fontSize=42&fontColor=00ff88&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=260&section=header&text=DHARMIK%20PRAJAPATI&fontSize=52&fontColor=00F5A0&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20JAVA%20DEVELOPER%20%7C%20AI%20ENGINEER&descAlignY=62&descSize=18&descColor=8B949E"/>
 
-### `root@dharmik:~$ whoami`
+<br>
 
-<h3>☕ Full Stack Java Developer | 🤖 AI Engineer | 🧠 Problem Solver</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00F5A0&center=true&vCenter=true&width=850&lines=Building+Backend+Systems+that+Scale;Spring+Boot+%2B+React+%2B+AI;Designing+APIs%2C+Architectures+%26+Intelligent+Systems;Turning+Ideas+into+Production+Code;Always+Learning.+Always+Building." />
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+Microservices;AI+%7C+RAG+%7C+MCP+%7C+Spring+AI;Turning+Coffee+into+Production+Code;Debugging+Today%2C+Deploying+Tomorrow"/>
-</p>
+<br><br>
 
-<p>
-  <a href="https://portfolioidea-two.vercel.app/">
-    <img src="https://img.shields.io/badge/%3E_%20Portfolio-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
-  <a href="https://github.com/dharmikk7610">
-    <img src="https://img.shields.io/badge/%3E_%20GitHub-111111?style=for-the-badge&logo=github&logoColor=00ff88"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dharmik-prajapati-469836293">
-    <img src="https://img.shields.io/badge/%3E_%20LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
-  </a>
-  <a href="https://www.instagram.com/coding__career_">
-    <img src="https://img.shields.io/badge/%3E_%20Coding_Career-111111?style=for-the-badge&logo=instagram&logoColor=00ff88"/>
-  </a>
-</p>
+<a href="https://portfolioidea-two.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F5A0?style=for-the-badge&labelColor=0D1117&color=00F5A0"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=dharmikk7610&label=SYSTEM%20VISITORS&color=00ff88&style=for-the-badge"/>
+<a href="https://github.com/dharmikk7610">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharmik-prajapati-469836293">
+<img src="https://img.shields.io/badge/IN%20LINKEDIN-7C3AED?style=for-the-badge&labelColor=0D1117&color=7C3AED"/>
+</a>
 
 </div>
 
 ---
 
-## `01 // ABOUT_ME`
+<div align="center">
+
+### `~/dharmik $ ./about-me`
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+```text
+╭──────────────────────────────────────╮
+│  👨‍💻 DHARMIK PRAJAPATI                │
+├──────────────────────────────────────┤
+│                                      │
+│  Role       Full Stack Java Dev      │
+│  Location   India 🇮🇳                 │
+│  Focus      Backend + AI             │
+│  Status     🟢 Building              │
+│                                      │
+│  Passion    → Scalable Systems       │
+│  Interest   → AI Engineering         │
+│  Mindset    → Build > Talk           │
+│                                      │
+╰──────────────────────────────────────╯
+```
+
+</td>
+
+<td width="45%">
 
 ```java
-public final class DharmikPrajapati {
+class Developer {
 
-    private static final String ROLE =
-            "Full Stack Java Developer";
+    String name = "Dharmik";
 
-    private static final String MISSION =
-            "Build. Break. Debug. Improve.";
+    String[] focus = {
+        "Java",
+        "Spring Boot",
+        "AI",
+        "System Design"
+    };
 
-    private static final String[] CORE =
-            {
-                "Java",
-                "Spring Boot",
-                "Spring Security",
-                "React",
-                "SQL"
-            };
-
-    private static final String[] AI =
-            {
-                "Spring AI",
-                "RAG",
-                "MCP",
-                "LLM Applications",
-                "Machine Learning"
-            };
-
-    private static final String CURRENT_FOCUS =
-            "Scalable Backend Systems + AI";
-
-    public static void main(String[] args) {
-
-        System.out.println(
-            "Turning ideas into production-ready systems."
-        );
-    }
+    boolean learning = true;
+    boolean building = true;
 }
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `02 // TECH_STACK`
+<div align="center">
 
-### `> backend`
+## ⚡ `TECHNOLOGY MATRIX`
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs"/>
-</p>
+</div>
 
-`Java` `Spring Boot` `Spring Security` `Hibernate` `REST APIs` `Microservices`
+<table>
+<tr>
+<td align="center" width="25%">
 
-### `> frontend`
+### ☕ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate"/>
 
-`React` `Redux` `TypeScript` `JavaScript` `Tailwind CSS`
+`Java`
+`Spring Boot`
+`Spring Security`
+`Hibernate`
+`REST APIs`
 
-### `> databases`
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis"/>
-</p>
+<td align="center" width="25%">
 
-`MySQL` `PostgreSQL` `MongoDB` `Redis`
+### ⚛️ Frontend
 
-### `> ai / machine_learning`
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind"/>
 
-<p>
+`React`
+`TypeScript`
+`JavaScript`
+`Redux`
+`Tailwind`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI
+
 <img src="https://skillicons.dev/icons?i=python"/>
-</p>
 
-`Spring AI` `RAG` `LangChain` `MCP` `LLM Applications` `Machine Learning`
+`Spring AI`
+`RAG`
+`MCP`
+`LangChain`
+`LLM Apps`
 
-### `> devops / tools`
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,linux,vscode,idea"/>
-</p>
+<td align="center" width="25%">
+
+### ☁️ Infra
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
+
+`Docker`
+`AWS`
+`Git`
+`Linux`
+`CI/CD`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `03 // WHAT_I_BUILD`
+<div align="center">
+
+## 🧪 `ENGINEERING LAB`
+
+### Currently Building
+
+</div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     DHARMIK'S LAB                            │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ⚡ BACKEND        → APIs • Security • Microservices         │
-│                                                              │
-│  🤖 AI             → RAG • MCP • Spring AI • LLMs            │
-│                                                              │
-│  🌐 FULL STACK     → React • Spring Boot • SQL               │
-│                                                              │
-│  🐳 DEVOPS         → Docker • AWS • CI/CD                    │
-│                                                              │
-│  🧠 ENGINEERING    → DSA • System Design • Scalability       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│   JAVA BACKEND                                                │
+│   ████████████████████████████████████░░░  90%               │
+│                                                               │
+│   SPRING BOOT ARCHITECTURE                                    │
+│   ██████████████████████████████████░░░░░  85%               │
+│                                                               │
+│   AI ENGINEERING                                              │
+│   ███████████████████████████████░░░░░░░  80%               │
+│                                                               │
+│   SYSTEM DESIGN                                               │
+│   ███████████████████████████░░░░░░░░░░░  70%               │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 ```
 
+> ⚠️ These aren't skill ratings — they're the areas currently getting the most engineering time.
+
 ---
 
-# `04 // FEATURED_PROJECTS`
+# 🚀 `SELECTED WORK`
 
-### `01. 🧠 GitHub Code Analyzer`
+<table>
+<tr>
+<td width="50%">
 
-> AI-powered repository analysis using GitHub APIs, Spring AI and MCP.
+## 🧠 GitHub Code Analyzer
+
+AI-powered code analysis platform.
+
+**Architecture**
 
 ```text
+GitHub
+   ↓
 Spring Boot
-      ↓
-GitHub API
-      ↓
-MCP Server
-      ↓
+   ↓
+MCP
+   ↓
 Spring AI
-      ↓
+   ↓
 Repository Analysis
-      ↓
-AI Generated Insights
 ```
 
-**Stack:** `Java` `Spring Boot` `Spring AI` `MCP` `GitHub API`
+**Built with**
 
----
+`Java` `Spring Boot` `Spring AI`
+`MCP` `GitHub API`
 
-### `02. 🤖 AI Hospital Assistant`
+</td>
 
-> RAG-powered healthcare assistant capable of answering questions from medical knowledge sources.
+<td width="50%">
+
+## 🤖 AI Hospital Assistant
+
+RAG-based AI assistant for knowledge retrieval.
+
+**Pipeline**
 
 ```text
 Documents
-    ↓
-Text Extraction
     ↓
 Chunking
     ↓
 Embeddings
     ↓
-Vector Database
+Vector DB
     ↓
 Retriever
     ↓
 LLM
-    ↓
-Answer
 ```
 
-**Stack:** `Spring AI` `RAG` `LangChain` `Vector DB` `Gemini`
+**Built with**
 
----
+`Spring AI` `RAG` `LangChain`
+`Vector Database` `Gemini`
 
-### `03. 🍔 Food Delivery Platform`
+</td>
+</tr>
 
-> Full-stack food ordering platform with authentication, payments, caching and AI-powered features.
+<tr>
+<td width="50%">
 
-```text
-React
-  ↓
-REST API
-  ↓
-Spring Boot
-  ↓
-Spring Security
-  ↓
-PostgreSQL
-  ↓
-Redis
-```
+## 🍔 Food Delivery Platform
+
+Full-stack food ordering ecosystem.
 
 **Features**
 
-* 🔐 JWT Authentication
-* 👤 Role-based authorization
-* 🍕 Restaurant & menu management
-* 🛒 Cart & order management
-* 💳 Payment integration
-* ⚡ Redis caching
-* 🤖 AI features
+`JWT Authentication`
+`Role Based Access`
+`Restaurant Management`
+`Redis Caching`
+`Payment Integration`
+`AI Features`
 
----
+**Stack**
 
-### `04. 📊 InsightAI`
+`Spring Boot` `React` `PostgreSQL`
 
-> AI-powered data analytics platform that transforms raw datasets into meaningful insights.
+</td>
+
+<td width="50%">
+
+## 📊 InsightAI
+
+AI-powered data analytics platform.
 
 ```text
-CSV / Dataset
-      ↓
-Data Cleaning
-      ↓
+Dataset
+   ↓
+Cleaning
+   ↓
 Feature Engineering
-      ↓
-Analysis
-      ↓
-AI Insights
-      ↓
+   ↓
+AI Analysis
+   ↓
 Visualization
-      ↓
+   ↓
 PDF Report
 ```
 
-**Goal:** Make data analysis accessible through automation + AI.
+**Goal:** Turn raw data into actionable insights.
+
+</td>
+</tr>
+</table>
 
 ---
-
-### `05. 🎯 Hackathon Management Platform`
-
-> Full-stack platform for managing events, teams and examinations.
-
-**Features**
-
-```text
-Organizer
-   │
-   ├── Create Event
-   ├── Create Exam
-   ├── Manage Participants
-   └── Manage Teams
-
-Participant
-   │
-   ├── Join Event
-   ├── Team Matching
-   └── Attempt Exam
-```
-
-**Stack:** `Spring Boot` `React` `JWT` `MySQL` `AI`
-
----
-
-# `05 // CURRENTLY_BUILDING`
-
-```bash
-$ cat current_focus.txt
-
-[+] Deepening Core Java
-[+] Spring Boot Architecture
-[+] Spring Security
-[+] Microservices
-[+] System Design
-[+] Spring AI
-[+] MCP
-[+] RAG
-[+] Distributed Systems
-
-STATUS: ████████████████████░ 90%
-```
-
----
-
-# `06 // GITHUB_STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharmikk7610&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikk7610&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
+## 🔥 `MY ENGINEERING PHILOSOPHY`
 
 </div>
 
----
+<table>
+<tr>
+<td align="center">
 
-# `07 // CONTRIBUTIONS`
+### 01
+
+## Build
+
+Don't just learn technology.
+
+**Build with it.**
+
+</td>
+
+<td align="center">
+
+### 02
+
+## Break
+
+Every bug is a chance to understand the system deeper.
+
+</td>
+
+<td align="center">
+
+### 03
+
+## Improve
+
+Make the next version faster, cleaner and smarter.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikk7610&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&hide_border=true"/>
+# 📊 `GITHUB ANALYTICS`
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharmikk7610&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00D9FF&text_color=C9D1D9&ring_color=00F5A0"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikk7610&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=C9D1D9"/>
 
 </div>
 
@@ -311,64 +345,55 @@ STATUS: ████████████████████░ 90%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmikk7610&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikk7610&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=00F5A0&fire=FF6B6B&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
 ---
 
-# `08 // TROPHIES`
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dharmikk7610&theme=matrix&no-frame=true&no-bg=true&margin-w=10"/>
+## 🌐 `CONTRIBUTION NETWORK`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmikk7610&bg_color=0D1117&color=00F5A0&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# `09 // DEVELOPER_STATS`
+<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                  SYSTEM INFORMATION                  ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  Language        : Java                              ║
-║  Backend         : Spring Boot                       ║
-║  Frontend        : React                             ║
-║  Database        : MySQL / PostgreSQL                ║
-║  AI              : Spring AI / RAG / MCP             ║
-║  Architecture    : REST / Microservices              ║
-║  Container       : Docker                            ║
-║  Cloud            : AWS                              ║
-║                                                      ║
-║  Mindset         : BUILD > TALK                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+## 🏆 `ACHIEVEMENTS`
+
+<img src="https://github-profile-trophy.vercel.app/?username=dharmikk7610&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
 
 ---
 
-# `10 // CONNECT`
-
 <div align="center">
+
+# 📡 `CONNECT`
 
 <a href="mailto:prajapatidharmik2812@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-00ff88?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dharmik-prajapati-469836293">
-<img src="https://img.shields.io/badge/LINKEDIN-00ff88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
 <a href="https://portfolioidea-two.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.instagram.com/coding__career_">
-<img src="https://img.shields.io/badge/CODING__CAREER-00ff88?style=for-the-badge&logo=instagram&logoColor=black"/>
+<img src="https://img.shields.io/badge/CODING%20CAREER-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dharmikk7610&label=PROFILE%20VISITS&color=00F5A0&style=flat-square"/>
 
 </div>
 
@@ -377,16 +402,20 @@ STATUS: ████████████████████░ 90%
 <div align="center">
 
 ```text
-> SYSTEM MESSAGE
-
-I don't just write code.
-I build systems, break them,
-debug them, and make them better.
-
+╭─────────────────────────────────────────────────────╮
+│                                                     │
+│   $ echo "Don't just write code. Build systems."   │
+│                                                     │
+│   > BUILD                                          │
+│   > DEBUG                                          │
+│   > SCALE                                          │
+│   > REPEAT                                         │
+│                                                     │
+╰─────────────────────────────────────────────────────╯
 ```
 
-### `⚡ BUILD. DEBUG. SCALE. REPEAT. ⚡`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0d1117,100:000000&height=120&section=footer"/>
+### `⚡ CODE IS THE TOOL. ENGINEERING IS THE SKILL. ⚡`
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:0D1117,100:000000&height=130&section=footer"/>
